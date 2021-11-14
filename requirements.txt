@@ -1,0 +1,8 @@
+tensorflow==1.14
+keras==2.2.5
+streamlit
+pandas
+numpy
+wordcloud
+arabic_reshaper
+python-bidi
