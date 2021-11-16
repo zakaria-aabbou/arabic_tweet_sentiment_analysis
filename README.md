@@ -1,5 +1,15 @@
 # Arabic Tweet Hashtag Sentiment Analysis
 
+Le rapport de projet:
+https://drive.google.com/file/d/1rjoW2kDerpI-tel6o6bF3T0393tbe86t/view
+
+La présenation PowerPoint :
+https://drive.google.com/file/d/1U7mQ8lSuizDFTkKCvLqMDwk7tiYTjxch/view
+
+Vidéo de la présenation  :
+https://drive.google.com/file/d/1utpwTH0NpTsQ1GFG5rF8LZpsTjB_Sw_5/view
+
+
 ## Modules 
 ### Data Used for training
 
